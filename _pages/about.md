@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Senior Lecturer/Associate Professor in North America
+Senior Lecturer/Associate Professor in North America<br>
 School HDR Coordinator
 School Major Convenor, Software Application and Cloud Computing
 Founder/Director, TAGIR Group
