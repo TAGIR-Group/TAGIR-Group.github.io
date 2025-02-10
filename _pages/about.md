@@ -17,7 +17,7 @@ Founder/Director, TAGIR Group
 
 Senior Member IEEE, Member ACM
 
-School of Mathematics, Physics, and Computing
+[School of Mathematics, Physics, and Computing](https://www.unisq.edu.au/about-unisq/schools/school-of-mathematics-physics-and-computing)
 
 Centre for Future Materials (CFM)
 
