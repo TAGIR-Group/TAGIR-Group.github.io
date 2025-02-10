@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 Senior Lecturer/Associate Professor in North America<br>
-School HDR Coordinator
-School Major Convenor, Software Application and Cloud Computing
-Founder/Director, TAGIR Group
-Senior Member IEEE, Member ACM
-[School of Mathematics, Physics, and Computing](https://www.unisq.edu.au/about-unisq/schools/school-of-mathematics-physics-and-computing)
-Centre for Future Materials (CFM)
-University of Southern Queensland
-
+School HDR Coordinator<br>
+School Major Convenor, Software Application and Cloud Computing<br>
+Founder/Director, TAGIR Group<br>
+Senior Member IEEE, Member ACM<br>
+[School of Mathematics, Physics, and Computing](https://www.unisq.edu.au/about-unisq/schools/school-of-mathematics-physics-and-computing)<br>
+[Centre for Future Materials (CFM)](https://www.unisq.edu.au/research/institutes-centres/iaess/centre-for-future-materials)<br>
+[University of Southern Queensland](https://www.unisq.edu.au/)<br>
+TAGIR Group<br>
 
 A data-driven personal website
 ======
